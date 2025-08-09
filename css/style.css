@@ -119,6 +119,8 @@ span{
 .home-content p{
     font-size: 1.6rem;
     width: 40rem;
+    line-height: 25px;
+    letter-spacing: 1.1px;
 }
 .social-media a{
     display: inline-flex;
@@ -188,6 +190,8 @@ span{
 .about-content p{
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+    line-height: 28px;
+    letter-spacing: 1.1px;
 }
 .services h2{
     margin-bottom: 5rem;
